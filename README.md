@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem solving and Web development
 - 🌱 I’m currently learning web developement
 - 💞️ I’m looking to collaborate on project of web 
-- 📫 How to reach me
+- 📫 How to reach me, Send me a message on twitter: @SurajTiwari09
 
 <!---
 Suraj-tiwari-github/Suraj-tiwari-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
